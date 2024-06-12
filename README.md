@@ -6,10 +6,10 @@ O **CodeOfLove 💻❤️** é uma página web interativa e divertida projetada 
 
 ## Como Funciona
 
-Ao acessar a página [CodeOfLove 💻❤️](https://codeoflove.netlify.app), os visitantes serão recebidos com uma animação criativa e uma proposta especial para pedir a pessoa amada em namoro, apresentando um estilo de programador. A página utiliza uma animação para simular um botão que se move para cima e para baixo, adicionando um toque interativo à proposta.
+Ao acessar a página [CodeOfLove 💻❤️](https://code-of-love.vercel.app/), os visitantes serão recebidos com uma animação criativa e uma proposta especial para pedir a pessoa amada em namoro, apresentando um estilo de programador. A página utiliza uma animação para simular um botão que se move para cima e para baixo, adicionando um toque interativo à proposta.
 
 **Preview:**
-[CodeOfLove 💻❤️ Preview](https://codeoflove.netlify.app)
+[CodeOfLove 💻❤️ Preview](https://code-of-love.vercel.app/)
 ![Resultado](https://codeoflove.netlify.app/assets/img/background-1.png)
 
 ## Tecnologias Utilizadas
